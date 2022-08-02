@@ -25,7 +25,7 @@ The steps below will take you all the way through Cypress. It is assumed you hav
 
 ### clone this repo to a local directory
 
-```git clone http://atotfs01.prod.atonet.gov.au:8080/tfs/TPC01/EST/_git/dsg.devportal-tests?path=%2F&version=GBdevel```
+```git clone https://github.com/mattrahmani/QA-Challenge__Sort-function```
 
 ### install the node_modules
 
