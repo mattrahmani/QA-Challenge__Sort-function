@@ -1,4 +1,4 @@
-# Test Automation challenge --- MIRROR TEST
+# Test Automation challenge
 
 **Author: Matt Rahmani**
 
