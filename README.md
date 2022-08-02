@@ -15,6 +15,7 @@ by using POM and Abstraction level techniques.
 ## Help + Testing
 
 The steps below will take you all the way through Cypress. It is assumed you have nothing installed except for node + git.
+
 **If you get stuck, here is more help:**
 
 - [Gitter Channel](https://gitter.im/cypress-io/cypress)
@@ -33,5 +34,5 @@ The steps below will take you all the way through Cypress. It is assumed you hav
 
 ### commands
 
-- ```npm test```                  - Opens Cypress app on runs tests in Cypress Runner
-- ```npx cypress run```           - Runs tests in headless mode
+```npm test```                  - Opens Cypress app on runs tests in Cypress Runner
+```npx cypress run```           - Runs tests in headless mode
