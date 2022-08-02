@@ -33,5 +33,5 @@ The steps below will take you all the way through Cypress. It is assumed you hav
 
 ### commands
 
-```npm test```                  - Opens Cypress app on runs tests in Cypress Runner
-```npx cypress run```           - Runs tests in headless mode
+- ```npm test```                  - Opens Cypress app on runs tests in Cypress Runner
+- ```npx cypress run```           - Runs tests in headless mode
