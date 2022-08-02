@@ -2,8 +2,8 @@
 
 **Author: Matt Rahmani**
 
-This repo contains sample test code for performing verification test on sorting functionality on [Beer Cartel](https://craftcartel.com.au/) website.
-The purpose of the test is to verify that sort function is working properly, but the focus on implementing the test is to create a test suite/framework which is:
+This repo contains sample test code for performing verification test for sorting function on [Beer Cartel](https://craftcartel.com.au/) website.
+The purpose of the test is to verify that sorting function is working properly, but the focus on implementing the test is to create a test suite/framework which is:
 
 - Robust
 - Readable

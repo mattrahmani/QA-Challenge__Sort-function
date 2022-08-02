@@ -5,7 +5,7 @@ const { onProductsPage } = require("../support/page-objects/products-page");
 const { onSubMenuBar } = require("../support/page-objects/sub-menus");
 //#endregion
 
-describe('Should verify sorting functionality', () => {
+describe('Should verify sorting function', () => {
     
     it('Should sort items by price: low to high', () => {
         onMainMenuBar.hoverOver('Shop');
